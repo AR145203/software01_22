@@ -1,0 +1,11 @@
+research/private/
+experiments/private/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+build/
+.DS_Store
+Thumbs.db
